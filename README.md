@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7EE8FA,100:EEC0C6&height=300&section=header&text=Yunkyu%20Jung&fontSize=90&fontColor=313135)
 
-<div align=center>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasdf99245%2Fhit-counter&count_bg=%23C455F9&title_bg=%233D3C3C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
+### ✋ Introduce
 
-### Introduce
+- I'm interested in Front-end.
 
-### Tech stack
+### 🛠️ Tech stack
 
-### Experience
+### 🚀 Experience
+
+- 2022.08.31 ~ 2022.12.16 Naver boostcamp web·mobile 7th membership
+- 2022.07.18 ~ 2022.08.12 Naver boostcamp web·mobile 7th challenge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf99245&count_private=true&show_icons=true&theme=dracula)
 
