@@ -8,10 +8,12 @@
 
 ### 🛠️ Tech stack
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
 ### 🚀 Experience
 
-- 2022.08.31 ~ 2022.12.16 Naver boostcamp web·mobile 7th membership
-- 2022.07.18 ~ 2022.08.12 Naver boostcamp web·mobile 7th challenge
+- 2022.08.31 ~ 2022.12.16 Naver Connect Foundation Boostcamp web·mobile 7th membership
+- 2022.07.18 ~ 2022.08.12 Naver Connect Foundation Boostcamp web·mobile 7th challenge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf99245&count_private=true&show_icons=true&theme=dracula)
 
