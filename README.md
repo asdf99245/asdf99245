@@ -14,8 +14,10 @@
 
 ### 🚀 Experience
 
-- 2022.08.31 ~ 2022.12.16 Naver Connect Foundation boostcamp web·mobile 7th membership
-- 2022.07.18 ~ 2022.08.12 Naver Connect Foundation boostcamp web·mobile 7th challenge
+- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07.03 ~
+- `Nexters 23th Frontend` - 2023.07.01 ~
+- `Naver Connect Foundation Boostcamp web·mobile 7th membership` - 2022.08.31 ~ 2022.12.16
+- `Naver Connect Foundation Boostcamp web·mobile 7th challenge` - 2022.07.18 ~ 2022.08.12
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf99245&count_private=true&show_icons=true&theme=dracula)
 
